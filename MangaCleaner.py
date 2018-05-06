@@ -1,0 +1,1 @@
+from MangaCleanerFlaskApp import app

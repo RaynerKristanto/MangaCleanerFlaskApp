@@ -28,8 +28,18 @@ body {
   text-align: center;
 }
 
+.horizontalLines {
+
+}
+
+#my_file {
+  display: none;
+}
+
 #convert {
   margin-left: 7mm;
+  background-color: grey;
+  color: white;
 }
 
 #fileNames {
